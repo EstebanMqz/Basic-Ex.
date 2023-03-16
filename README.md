@@ -1,10 +1,13 @@
-# ***Simulation of Financial Processes*** - *HW 1*  
-
-
+# ***Simulation of Financial Processes***
+## *Homework 1:* <br><br>
+---
 ## **Description:**
-This repository contains the first homework of the course Simulation of Financial Processes - *Fall 2020* in [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) university. The objective of the assignment is to collaborate on assigned exercises for students in a repository in order to practice git, markdown and python.<br>
+This repository contains the first homework of the course Simulation of Financial Processes - *Fall 2020* in [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) university. 
+<br>
 
-*The instructions, source code for solutions and their output is contained in the main notebook:* `ProyectoConjunto_JAContreras_EMarquez.ipynb`.
+### **Objective:**
+The objective of the assignment for the team members is to collaborate and solve simple assigned exercises in a git repository in order to *practice git, markdown and python.*.<br>
+*The instructions, source code for solutions and their output is contained in the main notebook:* [ProyectoConjunto_JAContreras_EMarquez.ipynb](https://github.com/EstebanMqz/FPS-Hw1_MD-Py_Ex./blob/main/ProyectoConjunto_JAContreras_EMarquez.ipynb)
 
 ### **Contributors:** 
 ![GitHub Logo](https://github.com/EstebanMqz.png?size=30) &nbsp; [EstebanMqz](https://github.com/EstebanMqz) &nbsp; [Jancope](https://github.com/Jancope)
