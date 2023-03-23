@@ -17,12 +17,11 @@ The objective of the assignment for the team members is to collaborate and solve
 
 ##### Distribution:&nbsp;![Anaconda-Badge](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)<br> 
 ##### Main Text-Editor:&nbsp;![Jupyter-Badge](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat-square&logo=Jupyter&logoColor=white)
-##### Language:&nbsp;![Python-Badge](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)&nbsp;![Markdown-Badge](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=Markdown&logoColor=white)<br>
+##### Language:&nbsp;![Latex-Badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)&nbsp;![Python-Badge](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)&nbsp;![Markdown-Badge](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=Markdown&logoColor=white)<br>
 ##### Libraries:&nbsp;![Numpy-Badge](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)<br>
 ##### Version Control:&nbsp;![GitHub-Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)![Git-Badge](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white) <br> [Git-Commands](https://github.com/EstebanMqz/Git-Commands)<br><br>
 
-##### **License:**
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+##### License:&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ---
 ### **References:** 
 A.G.Z. Kemna, A.C.F. Vorst, A pricing method for options based on average asset values. p. [113-129](https://www.sciencedirect.com/science/article/abs/pii/0378426690900395#preview-section-references)
