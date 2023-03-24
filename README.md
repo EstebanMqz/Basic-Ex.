@@ -7,7 +7,7 @@ This repository contains the first homework of the course Simulation of Financia
 
 ### **Objective:**
 The objective of the assignment for the team members is to collaborate and solve simple assigned exercises in a git repository in order to *practice git, markdown and python.*.<br>
-*The instructions, source code for solutions and their output is contained in the main notebook:* [Homework-1.ipynb](https://github.com/EstebanMqz/FPS-Hw1_MD-Py_Ex/blob/main/Homework-1.ipynb)
+*The instructions, source code for solutions and their output is contained in the main notebook:* [Homework-1.ipynb](https://github.com/EstebanMqz/FPS-Hw1/blob/main/Homework-1.ipynb)
 
 ### **Contributors:** 
 ![GitHub Logo](https://github.com/EstebanMqz.png?size=30) &nbsp; [EstebanMqz](https://github.com/EstebanMqz) &nbsp; [Jancope](https://github.com/Jancope)
