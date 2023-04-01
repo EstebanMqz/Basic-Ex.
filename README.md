@@ -3,6 +3,12 @@
 
 ## **Description:**
 This repository contains the first homework of the course Simulation of Financial Processes - *Fall 2021* in [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) university. 
+
+
+### **Diagram:**
+<img src="diagram.svg" width="580" height="580">
+[React-app](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FFPS-Hw1)
+
 <br>
 
 ### **Objective:**
@@ -16,9 +22,10 @@ The objective of the assignment for the team members is to collaborate and solve
 ### **Tools:**
 
 ##### Distribution:&nbsp;![Anaconda-Badge](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)<br> 
-##### Main Text-Editor:&nbsp;![Jupyter-Badge](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat-square&logo=Jupyter&logoColor=white)
-##### Language:&nbsp;![Latex-Badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)&nbsp;![Python-Badge](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)&nbsp;![Markdown-Badge](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=Markdown&logoColor=white)<br>
+##### Main Text-Editor:&nbsp;![Jupyter-Badge](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat-square&logo=Jupyter&logoColor=white)<br>
+##### Language:&nbsp;![Latex-Badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)&nbsp;![Python-Badge](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)&nbsp;![Markdown-Badge](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=Markdown&logoColor=white)![yaml-Badge](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)<br>
 ##### Libraries:&nbsp;![Numpy-Badge](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)<br>
+##### Interface:&nbsp;![React-Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)<br>
 ##### Version Control:&nbsp;![GitHub-Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)![Git-Badge](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white) <br> [Git-Commands](https://github.com/EstebanMqz/Git-Commands)<br><br>
 
 ##### License:&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
