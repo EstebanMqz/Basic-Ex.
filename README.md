@@ -7,6 +7,7 @@ This repository contains the first homework of the course Simulation of Financia
 
 ### **Diagram:**
 <img src="diagram.svg" width="580" height="580">
+
 [React-app](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FFPS-Hw1)
 
 <br>
