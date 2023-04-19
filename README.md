@@ -1,20 +1,22 @@
-# ***Simulation of Financial Processes***
-## *Homework 1:* <br><br>
-
-## **Description:**
-This repository contains the first homework of the course Simulation of Financial Processes - *Fall 2021* in [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) university. 
-
-
-### **Diagram:**
-<img src="diagram.svg" width="580" height="580">
-
-[React-app](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FFPS-Hw1)
-
+# **Simulation of Processes**
+## **1. Basic Exercises** <br>
+---
+### **Description**:
+This repository contains the first homework of the course Simulation Processes - *Fall 2021* in [ITESO](https://www.topuniversities.com/universities/iteso-universidad-jesuita-de-guadalajara) university.
 <br>
+**Graduation date:** *2017-2022 (9th semesters B.Eng)*
 
 ### **Objective:**
-The objective of the assignment for the team members is to collaborate and solve simple assigned exercises in a git repository in order to *practice git, markdown and python.*.<br>
-*The instructions, source code for solutions and their output is contained in the main notebook:* [Homework-1.ipynb](https://github.com/EstebanMqz/FPS-Hw1/blob/main/Homework-1.ipynb)
+The objective of this assignment contained in a git repository is very simple: *practice git, markdown and python.*.<br>
+
+### **Diagram:**
+<img src="diagram.svg" width="280" height="280">
+
+[React-app](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FBasic-Ex.)
+
+Instructions, source code and output is contained in the main notebook.* 
+[Assignment-1.ipynb](https://github.com/EstebanMqz/Basic-Ex./blob/main/Assignment-1.ipynb)
+
 
 ### **Contributors:** 
 ![GitHub Logo](https://github.com/EstebanMqz.png?size=30) &nbsp; [EstebanMqz](https://github.com/EstebanMqz) &nbsp; [Jancope](https://github.com/Jancope)
@@ -30,8 +32,12 @@ The objective of the assignment for the team members is to collaborate and solve
 ##### Version Control:&nbsp;![GitHub-Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)![Git-Badge](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white) <br> [Git-Commands](https://github.com/EstebanMqz/Git-Commands)<br><br>
 
 ##### License:&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ---
-### **References:** 
+As most of my repositories in Github, this was modified on 2023 for presentation purposes and to make a brief recap of the skills & tools I've publiclly worked with.<br>
+If you have any questions or comments, please feel free to send me an [email](mailto:emarquez1895@gmail.com).
+
+### **References:**
 A.G.Z. Kemna, A.C.F. Vorst, A pricing method for options based on average asset values. p. [113-129](https://www.sciencedirect.com/science/article/abs/pii/0378426690900395#preview-section-references)
 
 
