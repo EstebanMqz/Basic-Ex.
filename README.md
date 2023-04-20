@@ -6,11 +6,12 @@ This repository contains the first assignment of the Simulation Processes course
 <br>*Graduation date:* *2017-2022 (9th semesters B.Eng).*
 
 ### **Objective:**
-The objective of this assignment contained in a git repository is very simple:<br>
+The objective of the assignment contained in this git repository is in fact very simple.<br>
 *Practice Markdown & Python in teams with git.*<br>
 
 ##### **Diagram:**
-The diagram of files in repository is not complex at all, this is because the assignment is not a project but simple exercise made in a Jupyter Notebook. <br>
+The files in this repository are illustrated in the following diagram:
+
 <img src="diagram.svg" width="280" height="280">
 
 [Azure Web-App](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FBasic-Ex.)
@@ -35,8 +36,9 @@ Instructions, source code and output is contained in the main notebook.
 ##### License:&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
-*Note:* This repository was modified on 2023 for presentation purposes as most of my repos. <br>
-They are a brief recap of the tools & skills I've had the chance to work on with git but most of my projects still remain private. <br>
+*Note:* This repository was modified on 2023 for *presentation* purposes as most of my repos in my profile.<br>
+They intend to be a brief *recap* of some of the skills acquired during the B.Eng using the tools mentioned.<br>
+[commit-history](https://github.com/EstebanMqz/Basic-Ex./commits/main) is found here.<br>
 
 If you have any questions or comments, please feel free to send me an [email](mailto:emarquez1895@gmail.com).<br><br>
 
