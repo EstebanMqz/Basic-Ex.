@@ -19,7 +19,6 @@ The files in this repository are illustrated in the following diagram:
 Instructions, source code and output is contained in the main notebook. 
 [Assignment-1.ipynb](https://github.com/EstebanMqz/Basic-Ex./blob/main/Assignment-1.ipynb)
 
-
 ### **Contributors:** 
 ![GitHub Logo](https://github.com/EstebanMqz.png?size=30) &nbsp; [EstebanMqz](https://github.com/EstebanMqz) &nbsp; [Jancope](https://github.com/Jancope)
 
