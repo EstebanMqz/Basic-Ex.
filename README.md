@@ -29,7 +29,7 @@ This repository contains Python practice exercises in B.Financial Eng. in [ITESO
 <Details>
 <Summary> <i>Repository Visualization:</i> </Summary>
   
-[![Repository](https://img.shields.io/badge/Repository-0089D6?style=square&logo=microsoft-azure&logoColor=white)](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FBasic-Ex.) [![Jupyter](https://img.shields.io/badge/Render-nbviewer-000000?style=square&logo=jupyter&logoColor=orange)](https://nbviewer.org/github/EstebanMqz/Inv.Transform-and-Rejection-Sampling/blob/main/Inv.T-Rejection-Sampling.ipynb)
+[![Repository](https://img.shields.io/badge/Repository-0089D6?style=square&logo=microsoft-azure&logoColor=white)](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2FBasic-Ex.) [![Jupyter](https://img.shields.io/badge/Render-nbviewer-000000?style=square&logo=jupyter&logoColor=orange)](https://nbviewer.org/github/EstebanMqz/Basic-Ex./blob/main/Assignment-1.ipynb)
 
 <img src="diagram.svg" width="280" height="280">
 
